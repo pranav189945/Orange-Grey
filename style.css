@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: border-box;
+}
+.navbar{
+    height: 55px;
+    background-color: #131212;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.nav-logo{
+    height:50px;
+    width: 400px;
+}
+.logo{
+    background-image: url("IMG_6133.PNG");
+   background-size: cover;
+    height: 50px;
+    width: 100%;
+    
+    
+}
+.border{
+border: 2px solid transparent;
+
+}
+.border:hover{
+    border: 2px solid #fcfeff;
+
+}
+/** box 2 **/
+.add-first{
+    font-size: 25px;
+    color: #fc7e03;
+    text-align: center;
+    padding-left: 37px;
+    padding-top: 2px;
+    padding-right: 20px;
+}
+.add-second{
+    font-size: 18px;
+    color:#868788;
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.add-icon{
+display: flex;
+align-items: start;
+ padding-left:10px ;
+ padding-bottom: 50px;
+}
+
+/** box3 **/
+
+.nav-search{
+    margin-top: 4px;
+    display: flex;
+    justify-content: space-evenly;
+    height: 45px;
+    width: 620px;
+    background-color: #fc7e03;
+   border-radius: 4px;
+    
+}
+
+
+
+
+.search-select{
+  
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    width: 49px;
+    text-align: center;
+    border: none;
+    
+}
+.search-input{
+    width: 100%;
+    font-size: 1rem;
+    border:none;
+    
+
+}
+.search-icon{
+    width: 45px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+}
+.span{
+    font-size:0.7rem;
+}
+.nav-second{
+    font-size: 1rem;
+}
+.cart{
+    width: 60px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    
+}
+.text{
+   
+}
+.menu{
+    width: 120px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    color: #fc7e03;
+}
+.pannel-op{
+    height: 30px;
+    background-color: #fc7e03;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+}
+.main{
+    background-image: url("pexels-shkrabaanthony-5264909.jpg");
+    background-size: cover;
+    height: 900px;
+    width: 100%;
+}
+.herotext{
+    background-color: #353a3f;
+    height: 50px;
+    width: 100%;
+    color: #fc7e03;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+    font-size: large;
+    display: flex;
+    font-family: monospace;
+
+
+}
+.secondimg{
+    background-image: url("pexels-cottonbro-10679096.jpg") ;
+    height: 900px;
+    width: 100%;
+}
+.ff{
+    font-size: 80px;
+    color: #353a3f;
+    padding-left: 400px;
+    padding-top: 400px;
+}
+.jj{
+    font-size: 80px;
+    color: #353a3f;
+    padding-left: 1300px;
+    padding-top: 150px;
+
+}
+.maintxt{
+    font-size: 80px;
+    color: #fc7e03;
+    padding-left: 260px;
+    padding-top: 160px;
+    
+}
+
+    
